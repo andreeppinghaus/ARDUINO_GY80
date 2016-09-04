@@ -23,7 +23,7 @@ https://github.com/manifestinteractive/arduino/tree/master/Libraries/HMC5883L
 
 Programa de exemplo de uso para a utilização das bibliotecas Ambiente, Giroscopio e :
 
-
+<code>
 // Reference the I2C Library
 #include <Wire.h>
 // Reference the HMC5883L Compass Library
@@ -110,3 +110,4 @@ void loop()
  delay(3000);
   
 }
+</code>
